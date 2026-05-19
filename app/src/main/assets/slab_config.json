@@ -1,0 +1,7 @@
+{
+  "slabs": [
+    { "upToUnits": 100, "ratePerUnit": 5.0 },
+    { "upToUnits": 500, "ratePerUnit": 8.0 },
+    { "upToUnits": null, "ratePerUnit": 10.0 }
+  ]
+}
